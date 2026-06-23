@@ -1,0 +1,22 @@
+{
+  "name": "hp-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/aymlpz92/hp-api#readme",
+  "bugs": {
+    "url": "https://github.com/aymlpz92/hp-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymlpz92/hp-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "certif": "set NODE_TLS_REJECT_UNAUTHORIZED=0"
+  }
+}
