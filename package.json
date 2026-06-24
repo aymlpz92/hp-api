@@ -16,7 +16,6 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js",
-    "certif": "set NODE_TLS_REJECT_UNAUTHORIZED=0"
+    "start": "node main.js"
   }
 }

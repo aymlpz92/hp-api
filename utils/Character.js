@@ -23,7 +23,7 @@ export async function getCharacters(url) {
     // Récupérations des noms dans une liste
     const nameList = getCharactersNames(characterList);
     //Appel de la mthode de recherche par nom
-    searchByName(nameList, "Leanne");
+    searchByName(nameList, "Cl");
 
     // Appel de la méthode d erehcerche par email
     searchByEmail(characterList, "Shanna@melissa.tv");
